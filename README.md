@@ -1,4 +1,8 @@
-# DataScience__Sales_Analysis
+## Sales Analysis
 
-***Actually, I do present all my data_analysis work over Kaggle but I wanted to share my work over here also, so if you'd like to see the code and the whole visualization, you'd rather use this URL:***
-https://www.kaggle.com/taricov/sales-sheet-analysis
+   - **Keywords:** [Data Analysis, EDA, Data Visualization, Business Intelligence]()
+   - **Used libs:** *Pandas, Numpy, Seaborn, Matplotlib*
+   - 
+That project was early on my journey and it's about various small tasks to find out about a business from its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?" while I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact, and profitability across different departments.
+
+Kaggle: https://www.kaggle.com/taricov/sales-sheet-analysis
